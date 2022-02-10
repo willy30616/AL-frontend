@@ -43,19 +43,19 @@ npm run lint
 
 ## 專案結構
 src
-├─assets
-├─components
-│  ├─Product
-│  ├─ProductDesigner
-│  │  ├─DoorLeaf
-│  │  └─Frame
-│  ├─Quotate
-│  └─Setting
-│      └─MaterialCategory
-├─plugins
-├─router
-├─store
-├─utils
-└─views
-    ├─BaseSetting
-    └─ProductDesigner
+├─assets 圖片
+├─components 元件
+│  ├─Product 產品管理
+│  ├─ProductDesigner 產品設計
+│  │  ├─DoorLeaf 門框
+│  │  └─Frame 扇
+│  ├─Quotate 報價
+│  └─Setting 設定
+│      └─MaterialCategory 材料設定
+├─plugins 插件
+├─router 路由
+├─store 緩存
+├─utils 共用
+└─views 頁面
+    ├─BaseSetting 基本設定
+    └─ProductDesigner 產品設計
