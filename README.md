@@ -42,6 +42,7 @@ npm run lint
 ```
 
 ## 專案結構
+```
 src
 ├─assets 圖片
 ├─components 元件
@@ -59,3 +60,4 @@ src
 └─views 頁面
     ├─BaseSetting 基本設定
     └─ProductDesigner 產品設計
+```
